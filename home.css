@@ -1,0 +1,13 @@
+body,html{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+.slider{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(F3.jpg);
+    height:100vh;
+    width:100%;
+}
